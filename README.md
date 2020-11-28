@@ -1,2 +1,2 @@
-# Render Sprite Directx9
+# Capture and encode in mp4
  
